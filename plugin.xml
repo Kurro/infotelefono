@@ -27,3 +27,4 @@
         <source-file src="src/android/com/kurrogonzalez/infotelefonoplugin/InfoTelefonoPlugin.java"
                      target-dir="src/com/kurrogonzalez/infotelefonoplugin" />      
      </platform>          
+</plugin>
